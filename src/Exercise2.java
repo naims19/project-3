@@ -20,7 +20,7 @@ double tolak;
 double darab;
 double bahagi;
 
-System.out.print("Masukkan nombor A :");
+System.out.print("Masukkan nombor C :");
 A=input.nextDouble();
 System.out.print("masukkan nombor B :");
 B=input.nextDouble();
